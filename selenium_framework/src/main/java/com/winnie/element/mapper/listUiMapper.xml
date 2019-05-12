@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.winnie.element.mapper.ListUIMapper">
+	<resultMap type="com.winnie.element.located.ListUI" id="ListUIMap">
+		<result property="module" column="module" javaType="java.lang.String"></result>
+		<result property="naviPath" column="navi_path" javaType="java.lang.String"></result>
+		<result property="uiType" column="ui_type" javaType="java.lang.String"></result>
+		<result property="uiButton" column="ui_button" javaType="java.lang.String"></result>
+		<result property="uiButtonPath" column="ui_button_path" javaType="java.lang.String"></result>
+	</resultMap>
+	<select id="getListUiButton"  resultMap="ListUIMap">
+		select * from getListUiButtonCase where module = #{module} and ui_type = #{uiType} and ui_button = #{uiButton}
+	</select>
+</mapper>

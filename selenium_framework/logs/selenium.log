@@ -1,0 +1,206 @@
+2019-05-10 11:46:40,146 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 11:46:42,705 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 11:46:43,307 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 11:46:43,499 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 11:46:59,856 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 11:47:01,288 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-10 11:47:09,530 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Colors']/img
+2019-05-10 11:47:09,583 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Colors']
+2019-05-10 11:47:11,830 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Colors']/following-sibling::div[1]/a[text()='Active']
+2019-05-10 11:47:15,875 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text() = 'Create']
+2019-05-10 11:47:15,979 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text() = 'New Color']
+2019-05-10 11:47:26,411 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text() = 'New Color']
+2019-05-10 11:47:37,251 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 11:47:37,297 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-10 11:47:45,353 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Items']/img
+2019-05-10 11:47:47,405 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Items']/following-sibling::div[1]/a[text()='Active']
+2019-05-10 11:47:56,489 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text() = 'Create']
+2019-05-10 11:47:56,622 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text() = 'New Item']
+2019-05-10 11:47:56,704 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-05-10 11:48:15,260 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 11:48:15,412 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 11:48:15,517 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 11:48:26,612 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 11:48:37,025 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 11:48:37,025 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 11:48:37,088 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-10 11:48:39,669 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 11:48:50,187 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 11:48:55,280 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_export-a
+2019-05-10 11:49:05,634 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx_mainWin_export-a
+2019-05-10 11:49:05,639 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-borderlayout-icon z-east-exp')]
+2019-05-10 11:49:16,032 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-borderlayout-icon z-east-exp')]
+2019-05-10 11:49:28,077 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 11:49:38,438 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 11:49:38,439 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 11:49:48,803 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx__imageDownBtn
+2019-05-10 14:10:22,881 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:10:30,121 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 14:10:31,969 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 14:10:32,099 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 14:10:33,262 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-05-10 14:10:47,796 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 14:10:47,801 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 14:10:54,921 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:11:04,922 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 14:11:15,343 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Products']
+2019-05-10 14:11:15,344 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Skipped
+2019-05-10 14:11:15,353 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Skipped
+2019-05-10 14:11:15,353 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 14:11:15,356 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 14:11:25,357 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 14:11:35,772 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Products']
+2019-05-10 14:11:35,773 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Skipped
+2019-05-10 14:11:35,779 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Skipped
+2019-05-10 14:11:35,779 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 14:11:35,788 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 14:11:45,788 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 14:11:56,190 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Products']
+2019-05-10 14:12:01,107 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:12:02,002 main ERROR com.winnie.action.BaseAction - The screenShot file is saved in G:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190510061201.png
+2019-05-10 14:12:02,002 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Failure
+2019-05-10 14:12:06,858 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:12:08,009 main ERROR com.winnie.action.BaseAction - The screenShot file is saved in G:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190510061206.png
+2019-05-10 14:12:08,009 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Failure
+2019-05-10 14:12:18,012 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 14:12:28,458 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 14:12:28,458 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 14:12:28,628 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-10 14:12:31,240 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 14:12:41,668 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 14:12:46,086 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:12:54,568 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 14:12:54,748 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 14:12:54,885 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 14:13:10,458 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 14:13:10,463 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 14:13:14,284 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:13:24,286 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 14:13:34,755 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Products']
+2019-05-10 14:13:34,756 main INFO com.winnie.retry.TestngListener - createColorDoc Skipped
+2019-05-10 14:13:34,761 main INFO com.winnie.retry.TestngListener - createColorDoc Skipped
+2019-05-10 14:13:34,762 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 14:13:34,766 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 14:13:44,767 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 14:13:55,206 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Products']
+2019-05-10 14:13:55,207 main INFO com.winnie.retry.TestngListener - createColorDoc Skipped
+2019-05-10 14:13:55,215 main INFO com.winnie.retry.TestngListener - createColorDoc Skipped
+2019-05-10 14:13:55,218 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 14:13:55,222 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 14:14:05,223 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 14:14:15,571 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Products']
+2019-05-10 14:14:22,165 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:14:22,569 main ERROR com.winnie.action.BaseAction - The screenShot file is saved in G:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190510061422.png
+2019-05-10 14:14:22,569 main INFO com.winnie.retry.TestngListener - createColorDoc Failure
+2019-05-10 14:14:30,735 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:14:31,172 main ERROR com.winnie.action.BaseAction - The screenShot file is saved in G:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190510061430.png
+2019-05-10 14:14:31,172 main INFO com.winnie.retry.TestngListener - createColorDoc Failure
+2019-05-10 14:14:41,172 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 14:14:51,523 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 14:14:51,523 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 14:14:51,598 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-10 14:14:54,195 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 14:15:04,592 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 14:21:21,870 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:21:22,376 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 14:21:22,596 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 14:21:22,731 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 14:28:20,345 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:28:21,305 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 14:28:21,546 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 14:28:21,694 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 14:28:40,953 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:28:50,953 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 14:28:57,009 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Products']
+2019-05-10 14:29:07,034 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 14:29:13,067 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 14:29:13,068 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 14:29:19,089 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx__imageDownBtn
+2019-05-10 14:59:19,418 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 14:59:26,595 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 14:59:26,793 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 14:59:26,900 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 15:00:30,543 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 15:00:30,548 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 15:00:40,863 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 15:00:40,967 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-10 15:00:49,032 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Items']/img
+2019-05-10 15:00:59,399 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Items']/img
+2019-05-10 15:00:59,400 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Skipped
+2019-05-10 15:00:59,410 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Skipped
+2019-05-10 15:00:59,410 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 15:00:59,414 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 15:01:09,416 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 15:01:09,438 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-10 15:01:17,470 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Items']/img
+2019-05-10 15:01:27,852 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Items']/img
+2019-05-10 15:01:27,852 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Skipped
+2019-05-10 15:01:27,854 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Skipped
+2019-05-10 15:01:27,855 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 15:01:27,857 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Start
+2019-05-10 15:01:37,857 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 15:01:37,904 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-10 15:01:45,945 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Items']/img
+2019-05-10 15:01:56,253 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Items']/img
+2019-05-10 15:01:56,802 main ERROR com.winnie.action.BaseAction - The screenShot file is saved in G:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190510070156.png
+2019-05-10 15:01:56,802 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Failure
+2019-05-10 15:01:57,202 main ERROR com.winnie.action.BaseAction - The screenShot file is saved in G:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190510070156.png
+2019-05-10 15:01:57,202 main INFO com.winnie.retry.TestngListener - itemTypeCreateDoc Failure
+2019-05-10 15:02:07,204 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 15:02:17,578 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 15:02:17,578 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 15:02:17,628 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-10 15:02:20,231 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 15:02:30,559 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 15:02:30,878 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 15:02:31,015 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 15:02:31,122 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 15:02:55,321 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 15:02:55,327 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 15:03:05,329 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 15:03:05,390 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-10 15:03:13,430 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Colors']/img
+2019-05-10 15:03:23,876 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Colors']/img
+2019-05-10 15:03:23,877 main INFO com.winnie.retry.TestngListener - createColorDoc Skipped
+2019-05-10 15:03:23,882 main INFO com.winnie.retry.TestngListener - createColorDoc Skipped
+2019-05-10 15:03:23,883 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 15:03:23,887 main INFO com.winnie.retry.TestngListener - createColorDoc Start
+2019-05-10 15:03:33,888 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 15:03:33,934 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-10 15:03:41,987 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Colors']/img
+2019-05-10 15:03:42,049 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Colors']
+2019-05-10 15:03:44,088 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Colors']/following-sibling::div[1]/a[text()='Active']
+2019-05-10 15:03:48,146 main INFO com.winnie.retry.TestngListener - createColorDoc Success
+2019-05-10 15:03:48,148 main INFO com.winnie.retry.TestngListener - createColorDoc Success
+2019-05-10 15:03:58,149 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 15:04:08,540 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 15:04:08,540 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 15:04:08,620 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-10 15:04:18,625 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx__logoutTxtBtn
+2019-05-10 15:10:39,574 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-10 15:10:42,003 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 15:10:42,689 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 15:10:42,837 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 15:11:12,609 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-05-10 15:12:00,415 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 15:12:00,455 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-10 15:12:08,606 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Items']/img
+2019-05-10 15:12:08,658 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Items']
+2019-05-10 15:12:10,740 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Items']/following-sibling::div[1]/a[text()='Active']
+2019-05-10 15:12:51,671 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-10 15:12:51,849 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-10 15:12:51,977 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-10 15:13:10,982 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 15:13:21,423 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 15:13:21,423 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 15:13:21,490 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-10 15:13:24,096 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 15:13:34,513 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[@class='z-messagebox-window  z-window z-window-highlighted z-window-shadow']
+2019-05-10 15:13:39,529 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_export-a
+2019-05-10 15:13:49,946 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx_mainWin_export-a
+2019-05-10 15:13:59,951 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()= 'Products']
+2019-05-10 15:14:10,354 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[text()= 'Products']
+2019-05-10 15:14:20,361 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 15:14:30,758 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-icon z-window-close')]
+2019-05-10 15:14:30,759 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-10 15:14:41,145 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx__imageDownBtn

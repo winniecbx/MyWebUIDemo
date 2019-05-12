@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.winnie.config.ExtentTestNGIReportListener"/>
+    <listener class-name="com.winnie.retry.RetryListener"/>
+    <listener class-name="com.winnie.retry.TestngListener"/>
+  </listeners>
+  <test name="TestItem(failed)">
+    <classes>
+      <class name="com.winnie.cbx.page.ItemPageTest">
+        <methods>
+          <include name="itemTypeCreateDoc"/>
+        </methods>
+      </class> <!-- com.winnie.cbx.page.ItemPageTest -->
+      <class name="com.winnie.cbx.page.StartLogin">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.winnie.cbx.page.StartLogin -->
+    </classes>
+  </test> <!-- TestItem(failed) -->
+  <test name="TestColor(failed)">
+    <classes>
+      <class name="com.winnie.cbx.page.ColorPageTest">
+        <methods>
+          <include name="createColorDoc"/>
+        </methods>
+      </class> <!-- com.winnie.cbx.page.ColorPageTest -->
+      <class name="com.winnie.cbx.page.StartLogin">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.winnie.cbx.page.StartLogin -->
+    </classes>
+  </test> <!-- TestColor(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.winnie.element.mapper.FormUIMapper">
+<!-- 
+	<resultMap type="com.winnie.element.located.ListUI" id="ListUIMap">
+		<result property="module" column="module" javaType="java.lang.String"></result>
+		<result property="isCommon" column="isCommon" javaType="java.lang.String"></result>
+		<result property="button" column="button" javaType="java.lang.String"></result>
+		<result property="isGrid" column="isGrid" javaType="java.lang.String"></result>
+		<result property="uiButtonPath" column="ui_button_path" javaType="java.lang.String"></result>
+	</resultMap>
+	-->
+	<select id="getFormUI"  parameterType="String" resultType="com.winnie.element.located.FormUI">
+		select * from getFormUiCase where module = #{module} order by fieldSeq asc
+	</select>
+	
+	<select id="getFormUI1"  parameterType="String" resultType="com.winnie.element.located.FormUI1">
+		select * from field_definition where module = #{module} order by id asc
+	</select>
+	
+	<select id="getFormButton"  resultType="com.winnie.element.located.FormUIButton">
+		select * from getFormUiButton where module = #{module} and uiButton = #{uiButton}
+	</select>
+</mapper>

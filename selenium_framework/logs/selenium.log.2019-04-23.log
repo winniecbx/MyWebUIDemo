@@ -1,0 +1,20 @@
+2019-04-23 18:01:36,760 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-04-23 18:01:41,429 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-04-23 18:01:43,051 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-04-23 18:01:43,211 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-04-23 18:01:58,966 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-04-23 18:01:59,090 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-04-23 18:02:04,336 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-04-23 18:02:04,588 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-04-23 18:02:04,734 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-04-23 18:02:19,735 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_itemForm_productCategory-btn
+2019-04-23 18:02:24,843 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[@id='cbx_mainWin_productCategoryViewGrid_SEL_COL-cave']/div[2]/span/label
+2019-04-23 18:02:24,949 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-04-23 18:02:30,073 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_itemForm_tabColorTab-cave
+2019-04-23 18:02:35,306 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_itemForm_selectColor
+2019-04-23 18:02:40,441 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@id='cbx_mainWin_popColorLookupViewGridToolBar']/div/i/input
+2019-04-23 18:02:45,573 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@id='cbx_mainWin_popColorLookupViewGridGrid-cave']/tbody[1]/tr[1]/td[2]/span/label
+2019-04-23 18:02:45,695 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-04-23 18:03:00,788 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-04-23 18:03:00,858 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-04-23 18:03:01,479 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']

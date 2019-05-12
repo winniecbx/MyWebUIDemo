@@ -1,0 +1,218 @@
+2019-05-05 13:20:49,132 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-05 13:20:52,221 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-05 13:20:52,807 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-05 13:20:53,037 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-05 13:21:28,400 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='Products']
+2019-05-05 13:21:28,517 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-05 13:21:33,816 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-05-05 13:21:34,320 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-05-05 13:21:34,465 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-05-05 13:21:51,497 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-borderlayout-icon z-east-exp')]
+2019-05-05 13:21:53,660 main INFO com.winnie.cbx.common.CommonFunction - build header field Product Category Path is //*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:21:53,661 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:21:53,909 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[@id='cbx_mainWin_productCategoryViewGrid_SEL_COL-cave']/div[2]/span/label
+2019-05-05 13:21:54,586 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:21:59,726 main INFO com.winnie.cbx.common.CommonFunction - build header field Buyer Item No. Path is //*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:21:59,726 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:22:02,794 main INFO com.winnie.cbx.common.CommonFunction - build header field Item Description Path is //*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:22:02,795 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:22:05,036 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown btn Path is //*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:22:05,036 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown frist value Path is //*[@class= 'z-combobox-popup z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:22:05,036 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>//*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:22:17,722 main ERROR com.winnie.action.BaseAction -  the element locate can not be found by //*[text()='Brand:']/../../following-sibling::div/span/a, and the screenShot file is saved in J:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190505052215.png
+2019-05-05 13:22:17,722 main ERROR com.winnie.action.BaseAction - find no element for id=>//*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:22:27,758 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:22:38,535 main ERROR com.winnie.action.BaseAction -  the element locate can not be found by //*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')], and the screenShot file is saved in J:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190505052237.png
+2019-05-05 13:22:38,536 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:22:38,537 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-05 13:22:38,653 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-05 13:22:39,301 main INFO com.winnie.action.BaseAction - browse quit
+2019-05-05 13:29:57,713 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-05 13:29:58,704 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-05 13:29:59,209 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-05 13:29:59,412 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-05 13:30:01,887 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-05-05 13:30:24,320 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='Products']
+2019-05-05 13:30:24,408 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-05 13:30:29,641 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-05-05 13:30:29,864 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-05-05 13:30:29,997 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-05-05 13:30:47,092 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-borderlayout-icon z-east-exp')]
+2019-05-05 13:30:49,243 main INFO com.winnie.cbx.common.CommonFunction - build header field Product Category Path is //*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:30:49,244 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:30:49,402 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[@id='cbx_mainWin_productCategoryViewGrid_SEL_COL-cave']/div[2]/span/label
+2019-05-05 13:30:50,066 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:30:55,200 main INFO com.winnie.cbx.common.CommonFunction - build header field Buyer Item No. Path is //*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:30:55,200 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:30:57,745 main INFO com.winnie.cbx.common.CommonFunction - build header field Item Description Path is //*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:30:57,745 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:31:00,009 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown btn Path is //*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:31:00,009 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown frist value Path is //*[@class= 'z-combobox-popup z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:31:00,010 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:31:00,227 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class= 'z-combobox-popup z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:31:11,310 main ERROR com.winnie.action.BaseAction -  the element locate can not be found by //*[@class= 'z-combobox-popup z-combobox-open z-combobox-shadow']/ul/li[2]/span[2], and the screenShot file is saved in J:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190505053110.png
+2019-05-05 13:31:11,311 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[@class= 'z-combobox-popup z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:31:21,330 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:31:32,303 main ERROR com.winnie.action.BaseAction -  the element locate can not be found by //*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')], and the screenShot file is saved in J:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190505053131.png
+2019-05-05 13:31:32,304 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:31:32,304 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-05 13:31:32,454 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-05 13:38:24,724 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-05 13:38:25,338 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-05 13:38:25,692 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-05 13:38:25,896 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-05 13:38:26,977 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-05-05 13:38:49,388 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='Products']
+2019-05-05 13:38:49,468 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-05 13:38:54,661 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-05-05 13:38:54,849 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-05-05 13:38:54,985 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-05-05 13:39:12,005 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-borderlayout-icon z-east-exp')]
+2019-05-05 13:39:14,184 main INFO com.winnie.cbx.common.CommonFunction - build header field Product Category Path is //*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:39:14,185 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:39:14,341 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[@id='cbx_mainWin_productCategoryViewGrid_SEL_COL-cave']/div[2]/span/label
+2019-05-05 13:39:15,028 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:39:20,168 main INFO com.winnie.cbx.common.CommonFunction - build header field Buyer Item No. Path is //*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:39:20,168 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:39:22,562 main INFO com.winnie.cbx.common.CommonFunction - build header field Item Description Path is //*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:39:22,562 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:39:24,819 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown btn Path is //*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:39:24,820 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown frist value Path is //*[@class= 'z-combobox-popup  z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:39:24,820 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:39:25,093 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class= 'z-combobox-popup  z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:39:28,830 main INFO com.winnie.cbx.common.CommonFunction - build header field Re-order Path is //*[text()='Re-order:']/../../following-sibling::div//label
+2019-05-05 13:39:28,830 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Re-order:']/../../following-sibling::div//label
+2019-05-05 13:39:30,992 main INFO com.winnie.cbx.common.CommonFunction - build header selection btn Path is //*[text()='Licenses:']/../../following-sibling::div//i
+2019-05-05 13:39:30,995 main INFO com.winnie.cbx.common.CommonFunction - build header selection search bar Path is //*[text()='Licenses Lookup']/following-sibling::div//i/input
+2019-05-05 13:39:30,995 main INFO com.winnie.cbx.common.CommonFunction - build header selection first record Path is //*[text()='Licenses Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]/td[2]/span/label
+2019-05-05 13:39:30,996 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses:']/../../following-sibling::div//i
+2019-05-05 13:39:35,150 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses Lookup']/following-sibling::div//i/input
+2019-05-05 13:39:40,298 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]/td[2]/span/label
+2019-05-05 13:39:44,456 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:39:52,599 main INFO com.winnie.cbx.common.CommonFunction - build header selection btn Path is //*[text()='Reference Item.:']/../../following-sibling::div//i
+2019-05-05 13:39:52,599 main INFO com.winnie.cbx.common.CommonFunction - build header selection search bar Path is //*[text()='Item Lookup']/following-sibling::div//i/input
+2019-05-05 13:39:52,600 main INFO com.winnie.cbx.common.CommonFunction - build header selection first record Path is //*[text()='Item Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]
+2019-05-05 13:39:52,600 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Reference Item.:']/../../following-sibling::div//i
+2019-05-05 13:39:56,753 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Lookup']/following-sibling::div//i/input
+2019-05-05 13:40:01,873 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]
+2019-05-05 13:40:16,132 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:40:27,163 main ERROR com.winnie.action.BaseAction -  the element locate can not be found by //*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')], and the screenShot file is saved in J:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190505054026.png
+2019-05-05 13:40:27,163 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:40:27,164 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-05 13:40:27,275 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-05 13:40:27,932 main INFO com.winnie.action.BaseAction - browse quit
+2019-05-05 13:44:51,432 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-05 13:44:52,021 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-05 13:44:52,648 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-05 13:44:52,848 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-05 13:44:54,961 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-05-05 13:45:20,119 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='Products']
+2019-05-05 13:45:20,216 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-05 13:45:25,366 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-05-05 13:45:26,116 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-05-05 13:45:26,258 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-05-05 13:45:43,287 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-borderlayout-icon z-east-exp')]
+2019-05-05 13:45:45,459 main INFO com.winnie.cbx.common.CommonFunction - build header field Product Category Path is //*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:45:45,459 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:45:45,624 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[@id='cbx_mainWin_productCategoryViewGrid_SEL_COL-cave']/div[2]/span/label
+2019-05-05 13:45:46,341 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:45:51,518 main INFO com.winnie.cbx.common.CommonFunction - build header field Buyer Item No. Path is //*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:45:51,518 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:45:54,247 main INFO com.winnie.cbx.common.CommonFunction - build header field Item Description Path is //*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:45:54,247 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:45:56,516 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown btn Path is //*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:45:56,516 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown frist value Path is //*[@class= 'z-combobox-popup  z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:45:56,517 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:45:56,751 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class= 'z-combobox-popup  z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:46:00,494 main INFO com.winnie.cbx.common.CommonFunction - build header field Re-order Path is //*[text()='Re-order:']/../../following-sibling::div//label
+2019-05-05 13:46:00,494 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Re-order:']/../../following-sibling::div//label
+2019-05-05 13:46:02,628 main INFO com.winnie.cbx.common.CommonFunction - build header selection btn Path is //*[text()='Licenses:']/../../following-sibling::div//i
+2019-05-05 13:46:02,632 main INFO com.winnie.cbx.common.CommonFunction - build header selection search bar Path is //*[text()='Licenses Lookup']/following-sibling::div//i/input
+2019-05-05 13:46:02,632 main INFO com.winnie.cbx.common.CommonFunction - build header selection first record Path is //*[text()='Licenses Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]/td[2]/span/label
+2019-05-05 13:46:02,633 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses:']/../../following-sibling::div//i
+2019-05-05 13:46:06,808 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses Lookup']/following-sibling::div//i/input
+2019-05-05 13:46:11,943 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]/td[2]/span/label
+2019-05-05 13:46:16,099 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:46:24,240 main INFO com.winnie.cbx.common.CommonFunction - build header selection btn Path is //*[text()='Reference Item.:']/../../following-sibling::div//i
+2019-05-05 13:46:24,240 main INFO com.winnie.cbx.common.CommonFunction - build header selection search bar Path is //*[text()='Item Lookup']/following-sibling::div//i/input
+2019-05-05 13:46:24,240 main INFO com.winnie.cbx.common.CommonFunction - build header selection first record Path is //*[text()='Item Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]
+2019-05-05 13:46:24,240 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Reference Item.:']/../../following-sibling::div//i
+2019-05-05 13:46:28,370 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Lookup']/following-sibling::div//i/input
+2019-05-05 13:46:33,573 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]
+2019-05-05 13:46:37,808 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Packing Definition']/../following-sibling::div/a[text()='Add']
+2019-05-05 13:46:51,018 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:47:02,770 main ERROR com.winnie.action.BaseAction -  the element locate can not be found by //*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')], and the screenShot file is saved in J:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190505054701.png
+2019-05-05 13:47:02,771 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:47:02,771 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-05 13:47:02,897 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-05 13:47:03,554 main INFO com.winnie.action.BaseAction - browse quit
+2019-05-05 13:48:33,346 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-05-05 13:48:34,578 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-05-05 13:48:34,929 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-05-05 13:48:35,133 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-05-05 13:48:36,077 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-05-05 13:48:58,495 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='Products']
+2019-05-05 13:48:58,583 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-05-05 13:49:04,406 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-05-05 13:49:04,636 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-05-05 13:49:04,772 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-05-05 13:49:21,863 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-borderlayout-icon z-east-exp')]
+2019-05-05 13:49:24,033 main INFO com.winnie.cbx.common.CommonFunction - build header field Product Category Path is //*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:49:24,033 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Product Category:']/../../following-sibling::div//i
+2019-05-05 13:49:24,213 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[@id='cbx_mainWin_productCategoryViewGrid_SEL_COL-cave']/div[2]/span/label
+2019-05-05 13:49:24,895 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:49:30,040 main INFO com.winnie.cbx.common.CommonFunction - build header field Buyer Item No. Path is //*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:49:30,040 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Buyer Item No.:']/../../following-sibling::div/input
+2019-05-05 13:49:32,479 main INFO com.winnie.cbx.common.CommonFunction - build header field Item Description Path is //*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:49:32,479 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Description:']/../../following-sibling::div//textarea
+2019-05-05 13:49:35,715 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown btn Path is //*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:49:35,715 main INFO com.winnie.cbx.common.CommonFunction - build header dropdown frist value Path is //*[@class= 'z-combobox-popup  z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:49:35,716 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Brand:']/../../following-sibling::div/span/a
+2019-05-05 13:49:35,953 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@class= 'z-combobox-popup  z-combobox-open z-combobox-shadow']/ul/li[2]/span[2]
+2019-05-05 13:49:39,725 main INFO com.winnie.cbx.common.CommonFunction - build header field Re-order Path is //*[text()='Re-order:']/../../following-sibling::div//label
+2019-05-05 13:49:39,725 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Re-order:']/../../following-sibling::div//label
+2019-05-05 13:49:41,892 main INFO com.winnie.cbx.common.CommonFunction - build header selection btn Path is //*[text()='Licenses:']/../../following-sibling::div//i
+2019-05-05 13:49:41,893 main INFO com.winnie.cbx.common.CommonFunction - build header selection search bar Path is //*[text()='Licenses Lookup']/following-sibling::div//i/input
+2019-05-05 13:49:41,893 main INFO com.winnie.cbx.common.CommonFunction - build header selection first record Path is //*[text()='Licenses Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]/td[2]/span/label
+2019-05-05 13:49:41,893 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses:']/../../following-sibling::div//i
+2019-05-05 13:49:46,054 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses Lookup']/following-sibling::div//i/input
+2019-05-05 13:49:51,206 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Licenses Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]/td[2]/span/label
+2019-05-05 13:49:55,356 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:50:03,600 main INFO com.winnie.cbx.common.CommonFunction - build header selection btn Path is //*[text()='Reference Item.:']/../../following-sibling::div//i
+2019-05-05 13:50:03,600 main INFO com.winnie.cbx.common.CommonFunction - build header selection search bar Path is //*[text()='Item Lookup']/following-sibling::div//i/input
+2019-05-05 13:50:03,600 main INFO com.winnie.cbx.common.CommonFunction - build header selection first record Path is //*[text()='Item Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]
+2019-05-05 13:50:03,601 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Reference Item.:']/../../following-sibling::div//i
+2019-05-05 13:50:07,736 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Lookup']/following-sibling::div//i/input
+2019-05-05 13:50:12,845 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Item Lookup']/following-sibling::div//table[contains(@id,'ViewGrid-cave')]/tbody[1]/tr[1]
+2019-05-05 13:50:17,074 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Packing Definition']/../following-sibling::div/a[text()='Add']
+2019-05-05 13:50:20,262 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Packing Definition']/../following-sibling::div[@class='z-grid']//tr[2]//span[text() = 'Image']/../../..
+2019-05-05 13:50:20,362 main INFO com.winnie.cbx.common.CommonFunction - build defaultImage path is xpath=>//td[contains(@id, 'defaultImage_CELL')]//form/input
+2019-05-05 13:50:20,362 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//td[contains(@id, 'defaultImage_CELL')]//form/input
+2019-05-05 13:50:28,529 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Packing Definition']/../following-sibling::div[@class='z-grid']//tr[2]//span[text() = 'Type']/../../..
+2019-05-05 13:50:28,618 main INFO com.winnie.cbx.common.CommonFunction - build grid dropdown btn Path is //td[contains(@id, 'type_CELL')]//a
+2019-05-05 13:50:28,618 main INFO com.winnie.cbx.common.CommonFunction - build grid dropdown frist value Path is //div[contains(@id, 'type-pp')]/ul[contains(@id, 'type-cave')]/li[2]/span[2]
+2019-05-05 13:50:28,618 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//td[contains(@id, 'type_CELL')]//a
+2019-05-05 13:50:28,809 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//div[contains(@id, 'type-pp')]/ul[contains(@id, 'type-cave')]/li[2]/span[2]
+2019-05-05 13:50:30,992 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Packing Definition']/../following-sibling::div[@class='z-grid']//tr[2]//span[text() = 'SKU No.']/../../..
+2019-05-05 13:50:31,070 main INFO com.winnie.cbx.common.CommonFunction - build skuNo path is xpath=>//td[contains(@id, 'skuNo_CELL') ]/input
+2019-05-05 13:50:31,071 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//td[contains(@id, 'skuNo_CELL') ]/input
+2019-05-05 13:50:33,670 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Packing Definition']/../following-sibling::div[@class='z-grid']//tr[2]//span[text() = 'Carton Quantity']/../../..
+2019-05-05 13:50:33,746 main INFO com.winnie.cbx.common.CommonFunction - build cartonQuantity path is xpath=>//td[contains(@id, 'cartonQuantity_CELL') ]/input
+2019-05-05 13:50:33,746 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//td[contains(@id, 'cartonQuantity_CELL') ]/input
+2019-05-05 13:50:35,959 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Packing Definition']/../following-sibling::div[@class='z-grid']//tr[2]//span[text() = 'Description']/../../..
+2019-05-05 13:50:36,029 main INFO com.winnie.cbx.common.CommonFunction - build description path is xpath=>//td[contains(@id, 'description_CELL') ]/div/textarea
+2019-05-05 13:50:36,030 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//td[contains(@id, 'description_CELL') ]/div/textarea
+2019-05-05 13:50:38,333 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text() = 'Colors, Sizes & SKUs']
+2019-05-05 13:50:38,815 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Colors/Patterns']/../following-sibling::div/a[text()='Select Colors...']
+2019-05-05 13:50:43,008 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Color Lookup']/following-sibling::div//i/input
+2019-05-05 13:50:48,134 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Color Lookup']/following-sibling::div//table[contains(@id,'ViewGridGrid-cave')]/tbody[1]/tr[1]/td[2]/span/label
+2019-05-05 13:50:52,288 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-05-05 13:50:58,450 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[text()='Colors/Patterns']/../following-sibling::div[@class='z-grid']//tr[2]//span[text() = 'Primary']/../../..
+2019-05-05 13:50:58,537 main INFO com.winnie.cbx.common.CommonFunction - build isPrimary path is xpath=>//td[contains(@id, 'isPrimary_CELL') ]//label
+2019-05-05 13:50:58,537 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//td[contains(@id, 'isPrimary_CELL') ]//label
+2019-05-05 13:51:13,693 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:51:24,557 main ERROR com.winnie.action.BaseAction -  the element locate can not be found by //*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')], and the screenShot file is saved in J:\workspace\selenium CBXUI\selenium_framework\screenshot\\20190505055123.png
+2019-05-05 13:51:24,557 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[contains(@class, 'z-window-noborder z-window-modal z-window-shadow')]
+2019-05-05 13:51:24,557 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-05-05 13:51:24,665 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-05-05 13:51:25,335 main INFO com.winnie.action.BaseAction - browse quit

@@ -1,0 +1,112 @@
+2019-02-20 09:35:56,034 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 09:35:56,809 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 09:35:57,081 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 09:35:57,202 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 09:36:11,045 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 09:36:11,082 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 09:36:16,165 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 09:36:16,546 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-02-20 09:36:16,642 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-02-20 09:36:31,643 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@type='file']
+2019-02-20 09:36:49,523 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-02-20 09:36:49,613 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-02-20 09:36:50,236 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']
+2019-02-20 16:57:15,252 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 16:57:17,940 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 16:57:18,794 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 16:57:19,295 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 16:58:03,504 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 16:58:03,636 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 16:58:08,923 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 16:58:20,051 main INFO com.winnie.action.BaseAction - the screenShot file is saved in J:\workspace\selenium workspace\selenium_framework\screenshot\
+2019-02-20 16:58:20,051 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx_mainWin_create-a
+2019-02-20 16:58:55,151 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 16:58:59,380 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 16:59:00,346 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 16:59:00,874 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 16:59:05,619 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-02-20 16:59:19,217 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 16:59:19,396 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 16:59:24,665 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 16:59:36,042 main INFO com.winnie.action.BaseAction - the screenShot file is saved in J:\workspace\selenium workspace\selenium_framework\screenshot\
+2019-02-20 16:59:36,050 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx_mainWin_create-a
+2019-02-20 17:00:38,328 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 17:00:41,368 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 17:00:42,258 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 17:00:43,012 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 17:00:47,225 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-02-20 17:01:00,891 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 17:01:01,163 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 17:01:06,681 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 17:01:17,455 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-02-20 17:01:17,796 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-02-20 17:01:32,826 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@id='cbx_mainWin_refItemViewToolBar']/div/i/input
+2019-02-20 17:01:44,306 main INFO com.winnie.action.BaseAction - the screenShot file is saved in J:\workspace\selenium workspace\selenium_framework\screenshot\
+2019-02-20 17:01:44,307 main ERROR com.winnie.action.BaseAction - find no element for xpath=>//*[@id='cbx_mainWin_refItemViewToolBar']/div/i/input
+2019-02-20 17:06:00,957 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 17:06:04,292 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 17:06:05,140 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 17:06:05,715 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 17:06:08,639 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-02-20 17:06:21,487 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 17:06:23,706 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 17:06:29,201 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 17:06:40,522 main INFO com.winnie.action.BaseAction - the screenShot file is saved in J:\workspace\selenium workspace\selenium_framework\screenshot\
+2019-02-20 17:06:40,522 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx_mainWin_create-a
+2019-02-20 17:07:20,736 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 17:07:23,332 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 17:07:24,226 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 17:07:24,652 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 17:07:30,158 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-02-20 17:07:50,524 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 17:07:50,928 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 17:07:56,267 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 17:08:09,888 main INFO com.winnie.action.BaseAction - the screenShot file is saved in J:\workspace\selenium workspace\selenium_framework\screenshot\
+2019-02-20 17:08:09,889 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx_mainWin_create-a
+2019-02-20 17:09:15,309 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 17:09:17,600 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 17:09:18,683 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 17:09:19,250 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 17:09:34,163 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 17:09:34,494 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 17:09:50,711 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 17:09:51,400 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-02-20 17:09:51,997 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-02-20 17:10:29,508 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_itemForm_refItem-btn
+2019-02-20 17:10:45,339 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@id='cbx_mainWin_refItemViewToolBar']/div/i/input
+2019-02-20 17:11:46,313 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-02-20 17:11:52,516 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-02-20 17:12:03,555 main INFO com.winnie.action.BaseAction - the screenShot file is saved in J:\workspace\selenium workspace\selenium_framework\screenshot\
+2019-02-20 17:12:03,555 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx__logoutTxtBtn
+2019-02-20 17:16:13,859 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 17:16:18,111 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 17:16:20,241 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 17:16:20,840 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 17:16:23,324 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-02-20 17:16:37,045 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 17:16:46,538 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 17:17:18,826 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 17:17:19,513 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-02-20 17:17:20,086 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-02-20 17:18:06,329 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_itemForm_refItem-btn
+2019-02-20 17:18:15,139 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@id='cbx_mainWin_refItemViewToolBar']/div/i/input
+2019-02-20 17:22:38,180 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-02-20 17:22:49,942 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-02-20 17:23:01,608 main INFO com.winnie.action.BaseAction - the screenShot file is saved in J:\workspace\selenium workspace\selenium_framework\screenshot\
+2019-02-20 17:23:01,608 main ERROR com.winnie.action.BaseAction - find no element for id=>cbx__logoutTxtBtn
+2019-02-20 17:30:54,520 main INFO com.winnie.driver.SeleniumWebdriver - start open browse 
+2019-02-20 17:30:57,569 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>username
+2019-02-20 17:30:58,409 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>password
+2019-02-20 17:30:58,904 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>submit
+2019-02-20 17:31:02,632 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>/html/body/form/div/div[3]/input[1]
+2019-02-20 17:31:16,315 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_e1
+2019-02-20 17:31:16,620 main INFO com.winnie.cbx.common.CommonFunction - Navi: Products
+2019-02-20 17:31:26,282 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_create-a
+2019-02-20 17:31:26,833 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_mainWin_itemSearchNewDoc-a
+2019-02-20 17:31:27,358 main INFO com.winnie.cbx.common.CommonFunction - create a doc successfully
+2019-02-20 17:33:24,761 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx_itemForm_refItem-btn
+2019-02-20 17:33:30,660 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@id='cbx_mainWin_refItemViewToolBar']/div/i/input
+2019-02-20 17:33:46,078 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>//*[@id='cbx_mainWin_refItemViewGrid-cave']/tbody[1]/tr[1]
+2019-02-20 17:34:43,587 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__imageDownBtn
+2019-02-20 17:34:43,858 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: id=>cbx__logoutTxtBtn
+2019-02-20 17:34:44,804 main INFO com.winnie.action.BaseAction - use webDriverwait to find element: xpath=>.//*[text()='OK']

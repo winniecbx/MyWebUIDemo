@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="TestItem">
+    <classes>
+      <class name="com.winnie.cbx.page.StartLogin"/>
+      <class name="com.winnie.cbx.page.ItemPageTest"/>
+    </classes>
+  </test> 
+  <test name="TestColor">
+    <classes>
+      <class name="com.winnie.cbx.page.StartLogin"/>
+      <class name="com.winnie.cbx.page.ColorPageTest"/>
+    </classes>
+  </test> 
+  <listeners>
+  	<listener class-name="com.winnie.config.ExtentTestNGIReportListener"></listener>
+  	<listener class-name="com.winnie.retry.RetryListener"></listener>
+  	<listener class-name="com.winnie.retry.TestngListener"></listener>
+  </listeners>
+</suite> <!-- Suite -->
